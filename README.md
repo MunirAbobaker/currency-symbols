@@ -11,3 +11,38 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Currency Symbols
+#### ¤ Currency Sign
+#### $ Dollar Sign
+#### € Euro Sign
+#### ¢ Cent Sign
+#### £ Pound Sign
+#### ƒ Florin Sign
+#### ¥ Yen Sign
+#### ₮ Tugrik Sign
+#### ৳ Bengali Rupee Sign
+#### ௹ Tamil Rupee Sign
+#### ฿ Thai Currency Symbol Baht
+#### ៛ Khmer Currency Symbol Riel
+#### ₠ Euro-Currency Sign
+#### ₡ Colon Sign
+#### ₢ Cruzeiro Sign
+#### ₣ French Franc Sign
+#### ₤ Lira Sign
+#### ₥ Mill Sign
+#### ₦ Naira Sign
+#### ₧ Peseta Sign
+#### ₨ Rupee Sign
+#### ₩ Won Sign
+#### ₪ New Sheqel Sign
+#### ₫ Dong Sign
+#### ₭ Kip Sign
+#### ₯ Drachma Sign
+#### ₰ German Penny Sign
+#### ₱ Peso Sign
+#### ₲ Guarani Sign
+#### ₳ Austral Sign
+#### ₴ Hryvnia Sign
+#### ₵ Cedi Sign
+#### ￥ Fullwidth Yen Sign
+#### ﷼ Rial Sign
+#### ৲ Bengali Rupee Mark
